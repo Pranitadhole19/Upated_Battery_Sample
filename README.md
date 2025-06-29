@@ -1,1 +1,1 @@
-# Upated_Battery_Sample
+As per our discussion, I have made the necessary changes. I created a primary key using SampleId and also set up a Power Automate flow to automatically sync data between Excel and SharePoint in both directions.# Upated_Battery_Sample
